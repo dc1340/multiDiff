@@ -1,0 +1,9 @@
+DMC_Type	Is10ppm	IsLHet	IsLHet10ppm	IsMale	IsMale10ppm	IsMaleLHet	Group
+Hyper	69384	66950	43793	131589	51942	33862	All_Interactions
+Hypo	84672	35230	97493	23914	85289	115155	All_Interactions
+Hyper	1020	854	690	1833	788	518	All_Interactions_Background_Filtered
+Hypo	1191	520	1120	510	920	1479	All_Interactions_Background_Filtered
+Hyper	64113	40836	41329	0	0	0	Sex_Combined
+Hypo	75247	38611	105093	0	0	0	Sex_Combined
+Hyper	1093	539	681	0	0	0	Sex_Combined_Background_Filtered
+Hypo	1092	510	1346	0	0	0	Sex_Combined_Background_Filtered

@@ -1,0 +1,9 @@
+Group	Analysis	Gene_Count
+Cd	All_Interactions_Background_Filtered	710
+Cd	All_Interactions	714
+Cd	Sex_Combined_Background_Filtered	462
+Cd	Sex_Combined	468
+L	All_Interactions_Background_Filtered	11
+L	All_Interactions	2174
+L	Sex_Combined_Background_Filtered	14
+L	Sex_Combined	1004

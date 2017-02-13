@@ -1,0 +1,9 @@
+DMC_Type	Is10ppm	IsCdHet	IsCdHet10ppm	IsMale	IsMale10ppm	IsMaleCdHet	Group
+Hyper	23915	13363	27405	29623	48078	93437	All_Interactions
+Hypo	31318	47112	34601	57153	32866	25421	All_Interactions
+Hyper	23610	13131	27146	28689	46595	91848	All_Interactions_Background_Filtered
+Hypo	30034	45982	34169	55336	32474	24808	All_Interactions_Background_Filtered
+Hyper	4630	5277	17922	0	0	0	Sex_Combined
+Hypo	4434	6592	19827	0	0	0	Sex_Combined
+Hyper	4559	5193	17649	0	0	0	Sex_Combined_Background_Filtered
+Hypo	4274	6308	19502	0	0	0	Sex_Combined_Background_Filtered
