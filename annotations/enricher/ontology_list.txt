@@ -1,0 +1,6 @@
+GO_Biological_Process_2015
+GO_Cellular_Component_2015
+GO_Molecular_Function_2015
+MGI_Mammalian_Phenotype_Level_3
+MGI_Mammalian_Phenotype_Level_4
+Human_Phenotype_Ontology

@@ -1,0 +1,7 @@
+Annotation	Category
+GO_Biological_Process_2015	Ontologies
+Human_Phenotype_Ontology	Ontologies
+MGI_Mammalian_Phenotype_Level_3	Ontologies
+MGI_Mammalian_Phenotype_Level_4	Ontologies
+KEGG_2016	Pathways
+WikiPathways_2016 Pathways

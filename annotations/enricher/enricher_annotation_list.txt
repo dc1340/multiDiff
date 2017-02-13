@@ -1,0 +1,105 @@
+Annotation	Category
+ChEA_2016	Transcription
+TRANSFAC_and_JASPAR_PWMs	Transcription
+Genome_Browser_PWMs	Transcription
+ENCODE_and_ChEA_Consensus_TFs_from_ChIP-X	Transcription
+Epigenomics_Roadmap_HM_ChIP-seq	Transcription
+TargetScan_microRNA	Transcription
+ENCODE_TF_ChIP-seq_2015	Transcription
+TF-LOF_Expression_from_GEO	Transcription
+ENCODE_Histone_Modifications_2015	Transcription
+Transcription_Factor_PPIs	Transcription
+KEGG_2016	Pathways
+WikiPathways_2016	Pathways
+Reactome_2016	Pathways
+BioCarta_2016	Pathways
+Humancyc_2016	Pathways
+NCI-Nature_2016	Pathways
+Panther_2016	Pathways
+PPI_Hub_Proteins	Pathways
+KEA_2015	Pathways
+LINCS_L1000_Kinase_Perturbations_down	Pathways
+LINCS_L1000_Kinase_Perturbations_up	Pathways
+Kinase_Perturbations_from_GEO_down	Pathways
+Kinase_Perturbations_from_GEO_up	Pathways
+NURSA_Human_Endogenous_Complexome	Pathways
+CORUM	Pathways
+SILAC_Phosphoproteomics	Pathways
+Phosphatase_Substrates_from_DEPOD	Pathways
+GO_Biological_Process_2015	Ontologies
+GO_Cellular_Component_2015	Ontologies
+GO_Molecular_Function_2015	Ontologies
+MGI_Mammalian_Phenotype_Level_3	Ontologies
+MGI_Mammalian_Phenotype_Level_4	Ontologies
+Human_Phenotype_Ontology	Ontologies
+LINCS_L1000_Chem_Pert_up	Disease/Drugs
+LINCS_L1000_Chem_Pert_down	Disease/Drugs
+LINCS_L1000_Ligand_Perturbations_up	Disease/Drugs
+LINCS_L1000_Ligand_Perturbations_down	Disease/Drugs
+DrugMatrix	Disease/Drugs
+Old_CMAP_up	Disease/Drugs
+Old_CMAP_down	Disease/Drugs
+GeneSigDB	Disease/Drugs
+OMIM_Disease	Disease/Drugs
+OMIM_Expanded	Disease/Drugs
+VirusMINT	Disease/Drugs
+MSigDB_Computational	Disease/Drugs
+MSigDB_Oncogenic_Signatures	Disease/Drugs
+Virus_Perturbations_from_GEO_up	Disease/Drugs
+Virus_Perturbations_from_GEO_down	Disease/Drugs
+Achilles_fitness_increase	Disease/Drugs
+Achilles_fitness_decrease	Disease/Drugs
+dbGaP	Disease/Drugs
+Human_Gene_Atlas	Cell Types
+Mouse_Gene_Atlas	Cell Types
+Allen_Brain_Atlas_up	Cell Types
+Allen_Brain_Atlas_down	Cell Types
+GTEx_Tissue_Sample_Gene_Expression_Profiles_up	Cell Types
+GTEx_Tissue_Sample_Gene_Expression_Profiles_down	Cell Types
+Cancer_Cell_Line_Encyclopedia	Cell Types
+NCI-60_Cancer_Cell_Lines	Cell Types
+Tissue_Protein_Expression_from_ProteomicsDB	Cell Types
+Tissue_Protein_Expression_from_Human_Proteome_Map	Cell Types
+ESCAPE	Cell Types
+Chromosome_Location	Misc
+HMDB_Metabolites	Misc
+Pfam_InterPro_Domains	Misc
+HomoloGene	Misc
+Genes_Associated_with_NIH_Grants	Misc
+ChEA_2015	Misc
+ChEA_2013	Misc
+KEGG_2013	Misc
+KEGG_2015	Misc
+WikiPathways_2013	Misc
+WikiPathways_2015	Misc
+Reactome_2013	Misc
+Reactome_2015	Misc
+BioCarta_2013	Misc
+BioCarta_2015	Misc
+ENCODE_TF_ChIP-seq_2014	Misc
+KEA_2013	Misc
+GO_Biological_Process_2013	Misc
+GO_Cellular_Component_2013	Misc
+Drug_Perturbations_from_GEO_2014	Misc
+GO_Molecular_Function_2013	Misc
+Disease_Signatures_from_GEO_up_2014	Misc
+Disease_Signatures_from_GEO_down_2014	Misc
+ENCODE_Histone_Modifications_2013	Misc
+MGI_Mammalian_Phenotype_2013	Misc
+HumanCyc_2015	Misc
+NCI-Nature_2015	Misc
+Panther_2015	Misc
+Disease_Perturbations_from_GEO_down	Misc
+Disease_Perturbations_from_GEO_up	Misc
+Drug_Perturbations_from_GEO_down	Misc
+Drug_Perturbations_from_GEO_up	Misc
+Single_Gene_Perturbations_from_GEO_up	Misc
+Single_Gene_Perturbations_from_GEO_down	Misc
+Aging_Perturbations_from_GEO_up	Misc
+Aging_Perturbations_from_GEO_down	Misc
+Ligand_Perturbations_from_GEO_up	Misc
+Ligand_Perturbations_from_GEO_down	Misc
+MCF7_Perturbations_from_GEO_up	Misc
+MCF7_Perturbations_from_GEO_down	Misc
+Microbe_Perturbations_from_GEO_up	Misc
+Microbe_Perturbations_from_GEO_down	Misc

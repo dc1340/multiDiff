@@ -1,0 +1,2 @@
+Annotation	Category
+WikiPathways_2016	Pathways

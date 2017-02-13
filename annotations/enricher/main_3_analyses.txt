@@ -1,0 +1,4 @@
+Annotation	Category
+GO_Biological_Process_2015	Ontologies
+Human_Phenotype_Ontology	Ontologies
+KEGG_2016	Pathways
